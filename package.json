@@ -1,0 +1,23 @@
+{
+  "name": "com.garra.ssge",
+  "version": "1.0.0",
+  "displayName": "Simple Scriptable Game Events",
+  "description": "Basic scriptable game event system with parameters based on Ryan Hipple's Unite 2017 talk",
+  "unity": "2019.4",
+  "unityRelease": "15f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+ },
+ "keywords": [
+    "Events",
+    "Scriptable",
+    "Basic"
+  ],
+  "author": {
+    "name": "Garra",
+    "email": "90cruces@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
